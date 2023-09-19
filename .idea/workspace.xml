@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca2f6d8a-2b51-46ef-ba8b-cf79803e8ddb" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/dmy.java" beforeDir="false" afterPath="$PROJECT_DIR$/dmy.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca2f6d8a-2b51-46ef-ba8b-cf79803e8ddb" name="更改" comment="删除" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2VbPEZWyO7ZEwqCtaEV0ZwtzWBg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -65,5 +64,9 @@
       <updated>1695101695316</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除" />
   </component>
 </project>
