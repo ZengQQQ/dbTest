@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TradePlatform/TradePlatform.iml" filepath="$PROJECT_DIR$/TradePlatform/TradePlatform.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dbTest.iml" filepath="$PROJECT_DIR$/.idea/dbTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyw/gyw.iml" filepath="$PROJECT_DIR$/gyw/gyw.iml" />
     </modules>
   </component>
 </project>
